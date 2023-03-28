@@ -35,14 +35,26 @@ How-to
     ```bash
     pip install jupyterlab
     ```
-5. Clone the repository
+5. Install openai package
+    ```bash
+    pip install openai
+    ```
+5. Install numpy package
+    ```bash
+    pip install numpy
+    ```
+5. Install pandas package
+    ```bash
+    pip install pandas
+    ```
+6. Clone the repository
 
    ```bash
    $ git clone https://github.com/njm94/ReMind.git
    ```
    or download as zip and extract.
 
-5. In the bash shell (Linux/MacOS) or command line (Windows), go to root directory and run below command to launch the demo
+7. In the bash shell (Linux/MacOS) or command line (Windows), go to root directory and run below command to launch the demo
 
    ```bash
    $ jupyter lab
