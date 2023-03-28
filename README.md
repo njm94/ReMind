@@ -1,5 +1,5 @@
-# ReMind
-LLMs for Brain Health Hackathon
+# LLMs for Brain Health Hackathon
+**ReMind** - an AI companion
 ===============================
 ![ReMind](https://github.com/njm94/ReMind/blob/56ac4a020b05d1f62d200e4b901eb270cd8924cf/banner.png?raw=true)
 
@@ -7,7 +7,7 @@ LLMs for Brain Health Hackathon
 
 
 
-ReMind is geared to improve the emotional well-being and independence of people with dementia and their caregivers by 
+**ReMind** is geared to improve the emotional well-being and independence of people with dementia and their caregivers by 
 1. Initiating adaptive conversations with the patient and creating a positive emotional atmosphere.
 2. helping them remember important information, like names of their loved ones.
 3. providing feedback to caregivers on their interactions with the patient.
