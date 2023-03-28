@@ -7,7 +7,10 @@ LLMs for Brain Health Hackathon
 
 
 
-ReMind is geared to improve the emotional well-being and independence of people with dementia and their caregivers by 1) Initiating adaptive conversations with the patient and creating a positive emotional atmosphere 2) helping them remember important information, like names of their loved ones. And, 3) providing feedback to caregivers on their interactions with the patient.
+ReMind is geared to improve the emotional well-being and independence of people with dementia and their caregivers by 
+1. Initiating adaptive conversations with the patient and creating a positive emotional atmosphere.
+2. helping them remember important information, like names of their loved ones.
+3. providing feedback to caregivers on their interactions with the patient.
 
 Click this to watch overview and demo of the proto-type
 
