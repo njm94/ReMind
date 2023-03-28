@@ -1,4 +1,4 @@
-# LLMs for Brain Health Hackathon
+# LLMs for Brain Health Hackathon (24-26 March 2023)
 **ReMind** - an AI companion
 ===============================
 ![ReMind](https://github.com/njm94/ReMind/blob/56ac4a020b05d1f62d200e4b901eb270cd8924cf/banner.png?raw=true)
