@@ -12,6 +12,8 @@
 2. helping them remember important information, like names of their loved ones.
 3. providing feedback to caregivers on their interactions with the patient.
 
+We employ GPT-4 to analyze conversations and maintain the patient’s subjective history database, accessible only to the patient. We also extract emotions expressed in a conversation using “Arousal” and “Valence” of each sentence. AI companion is aware of the current emotional state of both the patient and the caregiver and can respond differentially to either of them and can adapt over the time.
+
 Click this to watch overview and demo of the proto-type
 
 [ReMind demo video](https://youtu.be/Oef0Ey3DG8c)
